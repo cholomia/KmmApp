@@ -1,0 +1,2 @@
+com/cholomia/myapplication/androidApp/BuildConfig.java
+ com.cholomia.myapplication.androidApp.BuildConfig

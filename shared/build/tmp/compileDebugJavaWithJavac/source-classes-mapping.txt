@@ -1,0 +1,2 @@
+com/cholomia/myapplication/shared/BuildConfig.java
+ com.cholomia.myapplication.shared.BuildConfig
